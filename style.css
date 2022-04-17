@@ -1,0 +1,28 @@
+body {
+  background:cadetblue;
+  font-family:sans-serif;
+  color: chartreuse;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color:cyan;
+ text-decoration: underline;
+}
+img {
+ border:solid;
+  border-style: groove;
+  border-radius:40px;
+  border-width: 6px;
+  border-color: aqua;
+}
+h6 {
+  color: darkgray;
+}
+.title {
+ text-align: center; 
+  text-decoration: underline;
+}
+a {font-family: monospace;}
