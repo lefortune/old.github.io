@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="games.css">
+    <title>play these games or die</title>
+  </head>
+  <body>
+    <h6><a href="index.html">Home Page</a> - <a href="random.html">Random things</a></h6>
+    <h3 class="title">This part of the website contains good video games that I will recommend and talk about like a nerd.</h3>
+    <h4 class="title">
+      Here are some good games that I may or may not play, along with some general info. I suggest you get these, unless you don't want to, then go swimming or something. 
+    </h4>
+    <h2>
+      <li>The Battle Cats</li>
+    </h2>
+    <p>
+      Collect 'adorable' kitties and gain world domination using your companions! The Battle Cats is a completely free strategy game developed by PONOS Corp. You collect cats which you use in battle. Upgrade your cats for maximum power! Battle the entire world and beat bosses. Additionally, you can send a cat to explore, gain a superpowered rare cat through golden capsules, and more! Get the game today!
+    </p>
+    <!--<img src="https://vignette.wikia.nocookie.net/battle-cats/images/6/61/BCEN_poster.png/revision/latest?cb=20160721091325" width=400 alt="Battle cats thumbnail">-->
+    <h6>No accurate image with legal permission is available</h6>
+    <h4>Reviews: 92% -iTunes</h4>
+    <h2>
+      <li>Undertale</li>
+    </h2>
+
+    <p>
+      Undertale is a unique modern-day RPG game developed by Toby Fox. A human has fallen into the underground who you control, and you must travel through the land of monsters. However, monsters will encounter you. You have a choice: to kill the monster or spare the monster. There are three paths you can follow: be a pacifist, start a genocide, or a mix of both; it's your choice. Try to escape through the surface; if you were kind enough, all the monsters follow you. Get the game today!
+    </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Undertale_cover.jpg" width=400 alt="Undertale thumbnail">
+    <h6>By Toby Fox (Undertale.com) [Public domain], <a href="https://commons.wikimedia.org/wiki/File:Undertale_cover.jpg">via Wikimedia Commons</a></h6>
+    <h4>Reviews: 98% -Various reviews</h4>
+    <h2>
+      <li>Come Home Blob</li>
+    </h2>
+    <p>
+      A Blob is separated from its home, a grey box. Get it back to its house... without dying! Come Home Blob is a hyper-casual game developed by Cheon Media Co. Dodge deadly obstacles and try to get to your continuously moving domicile. Be careful though, you can't stop moving! Get the game today! 
+    </p> 
+    <img src="thonk.png"
+         width=300 alt="No thumbnail image">
+    <h6>From Twitter [<a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0 </a>], <a href="https://commons.wikimedia.org/wiki/File:Twemoji2_1f914.svg">via Wikimedia Commons</a></h6>
+    <h4>Reviews: 13% -IGN</h4>
+    <h2>
+      <li>Overwatch</li>
+    </h2>
+
+    <p>
+      Overwatch is a first-person shooter game developed by Blizzard Entertainment. You can choose from a wide variety of heroes to play, and defeat the enemies in a game. Level up and get lootboxes with cosmetics for your heroes. Every hero is unique with their own abilities. Get the game today!
+    </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Overwatch_circle_logo.svg/2000px-Overwatch_circle_logo.svg.png" width=400 alt="Overwatch thumbnail">
+    <h6></h6>
+    <h4>Reviews: 94% -Various reviews</h4>
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+  </body>
+</html>
